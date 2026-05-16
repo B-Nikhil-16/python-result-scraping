@@ -1,3 +1,3 @@
-# my-projects
-
 This is the python code which scrapes result from the krishna university by entering first and last hall ticket numbers
+
+Automated Results Scraper & Rank Generator is a Python-based automation tool that collects student results from a website using hall ticket ranges, extracts marks using web scraping, and generates structured Excel reports. It also calculates total scores and produces a rank-wise sheet for all students.
