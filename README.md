@@ -110,7 +110,3 @@ student-results-scraper/
 ## Disclaimer
 
 This project is intended for educational and personal use only. Ensure you have permission to scrape and use data from the target website.
-
-## Author
-
-Your Name
